@@ -65,13 +65,7 @@
 
 
 # EXERCISE
+Build the following layout:
 
-```
-
-```
-
-# PUZZLE
-
-```
-
-```
+![Landing Page](https://cdn.dribbble.com/users/1126935/screenshots/5922966/landing.png)
+[pranavcreative](https://dribbble.com/pranavcreative)
