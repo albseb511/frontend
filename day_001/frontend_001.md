@@ -27,10 +27,10 @@
 
 ```
 
-## 5. Briefly describe the correct usage of the following HTML5 semantic elements: <header>, <article>,<section>, <footer>
+## 5. Briefly describe the correct usage of the following HTML5 semantic elements: 
 
 ```
-
+<header>, <article>,<section>, <footer>
 ```
 
 ## 6. What is the difference between '+' and '~' sibling selectors?.
