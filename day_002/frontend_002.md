@@ -1,86 +1,48 @@
 ![](https://img.shields.io/badge/FRONTEND-DAY2-red?logo=&style=for-the-badge)
 
-![](https://img.shields.io/badge/HTML-CSS-green)
+![](https://img.shields.io/badge/BOOTSTRAP-green)
 # CONCEPTS
 
-## 1. What are `inline` and `inline-block`? How is it different?
+## 1. What is the difference between justify-content and align-content
 
 ```
 
 ```
 
-## 2. What is the difference between `Flex` and `Grid`? What do you prefer and why?
+## 2. What are the differences between justify-content, justify-items, justify-self?
 
 ```
 
 ```
 
-## 3. What does `responsive design` mean? How do you achieve it?
+## 3. What does modal do?
 
 ```
 
 ```
 
-## 4. What steps do you follow to write clean CSS code?
+## 4.   
+1. In very large screens, it should cover the full screen, but the text inside should start with space inside 
+2. In large screens, the container should cover 66% of the screen 
+3. In medium screens, the container should cover 50% of the screen
+4. In small screens, the container should cover 100% of the screen
+5. In very small screens, the container should have 50% of the screen
+6. the elements inside the div should be horizontal
+7. There should be equal margin the vertical axes for all screen sizes
 
 ```
 
 ```
 
-## 5. How does `float` work?
+## 5. What are the class prefixes for all different screen types?
 
 ```
 
 ```
 
-## 6. Are there benefits of placing `script tags` towards the end of the page and `css tags` at the start of the page?
+## 6. Write the code with bootstrap for this exmaple.  (DO NOT GO ONLINE. WRITE IT YOURSELF. USE ONLY BOOTSTRAP)
+![Example](https://speckyboy.com/wp-content/uploads/2018/07/free-bootstrap-template-35.jpg)
 
 ```
 
 ```
-
-## 7. How can you show a page in different languages? What kind of things should you be aware of while designing multilingual websites?
-
-```
-
-```
-
-## 8. What are some ways to improve `performance` of a webpage?
-
-```
-
-```
-
-## 9. What do you understand by `Progressive rendering`?
-
-```
-
-```
-
-## 10. What are `iframes`? Why is it recommended to avoid iframes?
-
-```
-
-```
-
-## 11. What is the difference between `GET` and `POST` method?
-
-```
-
-```
-
-## 12. How do you remove the blue color and underline from text when you use <a href=''></a> tag
-
-```
-
-```
-
-
-# EXERCISE
-Build the following using tables/flex/grid:
-Challenge:
-1. Do not use classes or id or inline styling for the content.
-2. Use selectors and combinators to get the output
-3. km2 should not be part of the text, it should be added with css.
-
-![Table](https://i.imgur.com/lY9gBqq.png)
